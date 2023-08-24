@@ -3,13 +3,16 @@ const { createApp } = Vue;
 createApp({
     data() {
         return{
-            message: 'Hello Vue!'
+            discs: []
         }
     },
     methods: {
 
     },
     created() {
-        
+        axios.get('api.php')
+            .then(response => {
+                this.discs = response.data
+            });
     }
 }).mount('#app');

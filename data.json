@@ -1,0 +1,38 @@
+{
+  "1": {
+    "album": "Ok Computer",
+    "artist": "Radiohead",
+    "year": 1997,
+    "albumArt": "https://upload.wikimedia.org/wikipedia/en/b/ba/Radioheadokcomputer.png"
+  },
+  "2": {
+    "album": "The Bends",
+    "artist": "Radiohead",
+    "year": 1995,
+    "albumArt": "https://upload.wikimedia.org/wikipedia/en/5/55/Radioheadthebends.png"
+  },
+  "3": {
+    "album": "Kid A",
+    "artist": "Radiohead",
+    "year": 2000,
+    "albumArt": "https://upload.wikimedia.org/wikipedia/en/0/02/Radioheadkida.png"
+  },
+  "4": {
+    "album": "Brothers in Arms",
+    "artist": "Dire Straits",
+    "year": 1985,
+    "albumArt": "https://upload.wikimedia.org/wikipedia/en/6/67/DS_Brothers_in_Arms.jpg"
+  },
+  "5": {
+    "album": "Ride the Lightning",
+    "artist": "Metallica",
+    "year": 1984,
+    "albumArt": "https://upload.wikimedia.org/wikipedia/en/f/f4/Ridetl.png"
+  },
+  "6": {
+    "album": "Wish You Were Here",
+    "artist": "Pink Floyd",
+    "year": 1975,
+    "albumArt": "https://upload.wikimedia.org/wikipedia/en/a/a4/Pink_Floyd%2C_Wish_You_Were_Here_%281975%29.png"
+  }
+}
